@@ -1,7 +1,7 @@
 ## Project Documentation: Sentiment Analysis with TextBlob
 
 ### 1. Project Overview
-This script performs sentiment analysis using the TextBlob library. The main goal is to process text data to determine sentiment polarity and subjectivity.
+This script performs sentiment analysis on IMDB movie reviews using the TextBlob library. The main goal is to process text data to determine sentiment polarity and subjectivity.
 
 ### 2. Dependencies and Setup
 - **Python Libraries**:
