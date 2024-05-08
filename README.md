@@ -54,6 +54,3 @@ This script performs sentiment analysis using the TextBlob library. The main goa
 ### 6. Results and Interpretation
 - **Output**: 9,166 reviews classified as negative, Neutral sentiments are significantly fewer, totaling only 262 instances, Positive sentiments are the least common, with merely 25 instances.
 - **Discussion**: Overall, the dominance of negative sentiment underscores a potential concern that may need addressing if the dataset represents a business or service. These insights can guide further analysis to pinpoint the underlying causes and inform strategies for enhancing satisfaction or perception.
-
-### 7. Conclusion
-Summarize the effectiveness of the sentiment analysis, potential use cases, and any limitations observed during the analysis.
